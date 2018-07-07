@@ -11,7 +11,7 @@ namespace azurewebportal
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            this.info.Text = "hello";
         }
     }
 }

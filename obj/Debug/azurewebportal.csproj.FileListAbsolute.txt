@@ -1,6 +1,5 @@
 D:\visual studio 2015\Projects\azurewebportal\azurewebportal\bin\azurewebportal.dll.config
 D:\visual studio 2015\Projects\azurewebportal\azurewebportal\bin\azurewebportal.dll
 D:\visual studio 2015\Projects\azurewebportal\azurewebportal\bin\azurewebportal.pdb
-D:\visual studio 2015\Projects\azurewebportal\azurewebportal\obj\Debug\azurewebportal.csprojResolveAssemblyReference.cache
 D:\visual studio 2015\Projects\azurewebportal\azurewebportal\obj\Debug\azurewebportal.dll
 D:\visual studio 2015\Projects\azurewebportal\azurewebportal\obj\Debug\azurewebportal.pdb
